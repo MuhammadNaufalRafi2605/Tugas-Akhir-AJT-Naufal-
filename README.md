@@ -74,6 +74,48 @@ Pada tugas tiga kali ini, saya membuat load balancer, dan melakukan percobaan.
 
 Load balancer merupakan proses pembagian beban traffic pada sebuah aplikasi atau server. manfaat dari load balancer adalah traffic tidak akan dibebankan ke beberapa jalur koneksi, sehingga pemrosesan dapat dilakukan lebih singkat serta mampu untuk menghindari overloading.
 
+Demikian tugas tiga ini saya buat, Demikianlah tugas satu ini saya buat, selanjutnya akan berlanjut ke tugas empat.
+
+
+Tugas 4 - Shortest Path Routing
+
+Pada tugas empat ini, saya melakukan aplikasi daripada SPF Routing. SPF Routing sendiri merupakan algoritma routing yang menghitung jalur paling pendek antara pasangan-pasangan node yang terdapat pada lintasan. 
+
+A. Pertama-tama saya membuka aws intructure, kemudian saya jalankan, lalu saya menggunakan gitclone untuk menyalin repository dari https://github.com/abazh/learn_sdn.git pada terminal 1.
+![image](https://user-images.githubusercontent.com/107117812/172884764-2eec96a9-df4b-414b-bba9-e3d7141ce53f.png)
+
+B. Berikutnya saya mengganti direktori ke "learn_sdn/SPF".
+![image](https://user-images.githubusercontent.com/107117812/172884961-dc09a215-9b23-4d02-befc-546ab2ea1ff0.png)
+
+C. Setelah saya mengganti direktori ke "learn_sdn/SPF", saya menuliskan perintah "ryu-manager --observe-links dijkstra_Ryu_controller.py" pada terminal satu.
+![image](https://user-images.githubusercontent.com/107117812/172885508-e44dc4fb-8490-448c-8eda-a21bf9a01638.png)
+
+D. Saya membuka terminal baru (terminal dua), kemudian mengganti direktori ke "learn_sdn/SPF" seperti halnya pada terminal satu. Kemudian saya menjalankan perintah "sudo python3 topo-spf_lab.py" pada terminal dua.
+![image](https://user-images.githubusercontent.com/107117812/172885952-517a9584-4999-4c2e-8fa3-0e594713092b.png)
+
+E. Saya memeriksa konektivitas yang ada dengan perintah-perintah sebagai berikut.
+1. h1 ping -c 4 h4 
+1.1 Tampilan terminal satu.
+![image](https://user-images.githubusercontent.com/107117812/172886283-95582f70-8ddf-4bd3-a52f-f6a03bd06d15.png)
+1.2 Tampilan terminal dua.                                        
+![image](https://user-images.githubusercontent.com/107117812/172886522-6fc13795-d6a7-4369-9807-40156fadbe97.png)
+                                                                                   
+2. h5 ping -c 4 h6 
+2.1 Tampilan terminal satu.
+![image](https://user-images.githubusercontent.com/107117812/172886972-c1fa4578-19f3-4c0f-9dcc-9e7154cdbda8.png)
+2.2. Tampilan terminal dua.  
+![image](https://user-images.githubusercontent.com/107117812/172887128-caeb99c3-fe19-407e-98a1-5410995a77ee.png)
+
+F. Saya sudah melakukan istruksi sebagaimana pada tugas empat, dan tidak ditemukan kendala atau permasalahan pada tugas empat ini.
+
+Demikian tugas akhir matakuliah Arsitektur Jaringan Terkini ini saya buat, terimakasih, wassalamualaikum.
+
+
+
+
+
+
+
 
 
 
