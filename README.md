@@ -11,11 +11,17 @@ Tugas Akhir Jaringan Terkini
 Tugas 1 - Membuat Instance dan Instalasi OpenFlow, Mininet dan Ryu
 
 Pada tugas satu ini saya membuat virtual machine dengan spesifikasi sebagai berikut :
+
 -Nama : Tugas Akhir.
+
 -OS Image : Ubuntu Server 22.04 LTS 64-bit.
+
 -Instance type : t2.medium.
+
 -Keypair : vockey.
+
 -Edit network settings : allow SSH, allow HTTP, allow HTTPS, allow TCP port 8080, allow TCP port 8081
+
 -Konfigurasi penyimpanan : 30 Gigabyte, gp3.
 ![image](https://user-images.githubusercontent.com/107117812/172874384-c3230a51-33ce-41a2-a107-36df69d2f690.png)
 
