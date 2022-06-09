@@ -65,6 +65,15 @@ E. Uji koneksi sudah saya lakukan dan tidak ada permasalahan yang muncul, dengan
 Demikian tugas dua ini saya buat, Demikianlah tugas satu ini saya buat, selanjutnya akan berlanjut ke tugas tiga.
 
 
+Tugas 3 - Ryu Load Balancer
+
+Pada tugas tiga kali ini, saya membuat load balancer, dan melakukan percobaan.
+
+![image](https://user-images.githubusercontent.com/107117812/172880887-fee811eb-3f35-46fb-bea6-04ceef76e5e2.png)
+![image](https://user-images.githubusercontent.com/107117812/172880919-edf294ff-0691-4dcc-9e04-96fd9f4c8ac0.png)
+
+Load balancer merupakan proses pembagian beban traffic pada sebuah aplikasi atau server. manfaat dari load balancer adalah traffic tidak akan dibebankan ke beberapa jalur koneksi, sehingga pemrosesan dapat dilakukan lebih singkat serta mampu untuk menghindari overloading.
+
 
 
 
