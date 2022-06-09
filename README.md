@@ -8,6 +8,7 @@ Arsitektur Jaringan Terkini A
 Tugas Akhir Jaringan Terkini
 
 
+
 Tugas 1 - Membuat Instance dan Instalasi OpenFlow, Mininet dan Ryu
 
 Pada tugas satu ini saya membuat virtual machine dengan spesifikasi yang disebutkan pada deskripsi tugas.
@@ -40,6 +41,7 @@ D. Semua sudah terinstall pada virtual machine, selanjutnya saya mengetes guna m
 E. Setelah saya uji coba, semua berjalan dengan baik.
 
 Demikianlah tugas satu ini saya buat, selanjutnya akan berlanjut ke tugas dua.
+
 
 Tugas 2 - Custom Mininet Topology
 
