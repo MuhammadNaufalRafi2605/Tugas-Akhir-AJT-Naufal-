@@ -95,14 +95,18 @@ D. Saya membuka terminal baru (terminal dua), kemudian mengganti direktori ke "l
 
 E. Saya memeriksa konektivitas yang ada dengan perintah-perintah sebagai berikut.
 1. h1 ping -c 4 h4 
+
 1.1 Tampilan terminal satu.
 ![image](https://user-images.githubusercontent.com/107117812/172886283-95582f70-8ddf-4bd3-a52f-f6a03bd06d15.png)
+
 1.2 Tampilan terminal dua.                                        
 ![image](https://user-images.githubusercontent.com/107117812/172886522-6fc13795-d6a7-4369-9807-40156fadbe97.png)
                                                                                    
 2. h5 ping -c 4 h6 
+
 2.1 Tampilan terminal satu.
 ![image](https://user-images.githubusercontent.com/107117812/172886972-c1fa4578-19f3-4c0f-9dcc-9e7154cdbda8.png)
+
 2.2. Tampilan terminal dua.  
 ![image](https://user-images.githubusercontent.com/107117812/172887128-caeb99c3-fe19-407e-98a1-5410995a77ee.png)
 
