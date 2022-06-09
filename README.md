@@ -32,5 +32,5 @@ Kemudian setelah mesin selesai dibuat, saya menginstall openflow, ryu, flowmanag
 ![image](https://user-images.githubusercontent.com/107117812/172874820-26250752-94fb-4970-b816-bfe9c5ef7d81.png)
 
 Jangan lupa untuk mengecek kembali apakah openflow, flowmanager, ryu, flowmanager.
-![image](https://user-images.githubusercontent.com/107117812/172875038-5fcf6379-361c-4bc0-afd5-5824d8bea214.png)
+![image](https://user-images.githubusercontent.com/107117812/172875380-14b0d547-4284-4d32-b848-6e70078f1179.png)
 
